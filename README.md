@@ -11,10 +11,11 @@
 ## **About me**
 <ul> 
     <li>💻 Passionate about everything computer,and/or technologies related</li>
-    <li>🎓 A student developper at O'clock since dicember 2022</li>
+    <li>🎓 Former student developer at O'clock</li>
     <li>🧠 Always learning new things.</li>
     <li>📫 I’m currently open for a new job opportunity</li>
-    <li>🌐 My portefolio is being created</li> 
+    <li>🌐 A first version of my portfolio is online <a href="https://floriane-maffei.github.io/">here</a>
+</li> 
 </ul>
 
 
