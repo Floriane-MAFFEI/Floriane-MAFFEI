@@ -79,7 +79,7 @@
 
 </details>
 <details>
-<summary><strong>Bureautics</strong></summary>
+<summary><strong>Bureautics</strong></summary>https://github-readme-stats.vercel.app/api/top-langs/?username=Floriane-MAFFEI&layout=compact
 
 |  WORD     |  EXCEL    |  POWERPOINT
 |---    |:-:    |:-:    |
@@ -88,9 +88,10 @@
 </details>
 
 ## 📈 **Github Stats**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=floriane-maffei&show_icons=true&theme=dark&title_color=5842ff&text_color=5842ff&locale=en&layout=compact" alt="floriane-maffei" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=floriane-maffei&theme=dark&layout=compact" alt="floriane-maffei" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=floriane-maffei&show_icons=true&theme=dark&title_color=5842ff&text_color=5842ff&locale=en" alt="floriane-maffei" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=floriane-maffei&theme=dark&title_color=5842ff&locale=fr" alt="floriane-maffei" /></p>
 
 
 <div align="center">
