@@ -14,7 +14,7 @@
     <li>🎓 Former student developer at O'clock</li>
     <li>🧠 Always learning new things.</li>
     <li>📫 I’m currently open for a new job opportunity</li>
-    <li>🌐 A first version of my portfolio is online <a href="https://floriane-maffei.github.io/">here</a>
+    <li>🌐 A first version of my portfolio is online <a href="https://floriane-maffei.vercel.app/">here</a>
 </li> 
 </ul>
 
