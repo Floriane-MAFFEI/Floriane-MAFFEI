@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Floriane MAFFEI</h1>
-<h2 align="center">Fullstack developer spécializing in Backend ...</h2>
+<h2 align="center">Developer Specialized Symfony ...</h2>
 
 
 ## **About me**
@@ -14,7 +14,7 @@
     <li>🎓 Former student developer at O'clock</li>
     <li>🧠 Always learning new things.</li>
     <li>📫 I’m currently open for a new job opportunity</li>
-    <li>🌐 A first version of my portfolio is online <a href="https://floriane-maffei.vercel.app/">here</a>
+    <li>🌐 My website is online <a href="https://maffei-webworld.fr/">here</a>
 </li> 
 </ul>
 
