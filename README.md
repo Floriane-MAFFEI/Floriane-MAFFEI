@@ -77,7 +77,7 @@
 
 </details>
 <details>
-<summary><strong>Bureautics</strong></summary>https://github-readme-stats.vercel.app/api/top-langs/?username=Floriane-MAFFEI&layout=compact
+<summary><strong>Bureautics</strong></summary>
 
 |  WORD     |  EXCEL    |  POWERPOINT
 |---    |:-:    |:-:    |
