@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Floriane MAFFEI</h1>
-<h2 align="center">Developer Specialized Symfony ...</h2>
+<h2 align="center">Developer Specialized Symfony/PHP ...</h2>
 
 
 ## **About me**
