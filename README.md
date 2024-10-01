@@ -11,9 +11,9 @@
 ## **About me**
 <ul> 
     <li>💻 Passionate about everything computer,and/or technologies related</li>
-    <li>🎓 Former student developer at O'clock</li>
+    <li>🎓 Old student developer at O'clock</li>
     <li>🧠 Always learning new things.</li>
-    <li>📫 I’m currently open for a new job or mission opportunity</li>
+    <li>📫 I’m currently <strong>open for a new job or mission opportunity</strong></li>
     <li>🌐 My website for my self-employed company is online <a href="https://maffei-webworld.fr/">here</a></li> 
 </ul>
 
