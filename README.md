@@ -32,11 +32,12 @@
 |---    |:-:    |:-:    |---    |
 | ![HTML5](img/html-5.png)      |  ![CSS3](img/css-3.png)     | ![JAVASCRIPT](img/js.png) | ![PHP](img/php.png)      |     
 
-|  SASS     |  BOOTSTRAP    |  SYMFONY
-|---    |:-:    |:-:    |
-| ![SASS](img/sass.png) |  ![BOOTSTRAP](img/bootstrap.png)  | ![SYMFONY](img/symfony_white.png) 
+|  SASS     |  BOOTSTRAP    |  SYMFONY   |  ANGULAR CLI     |
+|---    |:-:    |:-:    |:-:    |
+| ![SASS](img/sass.png) |  ![BOOTSTRAP](img/bootstrap.png)  | ![SYMFONY](img/symfony_white.png) | <img src="img/AngularJS-Shield.png" alt="ANGULAR" width="75"/> |
 
 </details>
+
 <details>
 <summary><strong>Databases</strong></summary>
 
