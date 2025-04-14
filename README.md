@@ -14,8 +14,7 @@
 
 <p align="center">🙋‍🔗 <strong>Click for connect with me:</strong></p>
 <p align="center">
-<a href="https://linkedin.com/in/floriane-maffei"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-"/></a>
+<a href="https://linkedin.com/in/floriane-maffei"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## **About me**
