@@ -22,6 +22,7 @@
 <ul> 
     <li>💻 I've always been passionate about everything related to computers and/or technology.</li>
     <li>🎓 Learning through exercises (O'clock, 42, etc.)</li>
+    <li>🔣 I also learn from sites such as Chefcode, Codewars, leetcode...</li>
     <li>🧠 I'm always eager to learn new things.</li>
     <li>📫 I'm currently looking for a job opportunity.</strong></li>
 </ul>
