@@ -12,7 +12,7 @@
 
 <h1 align="center">Passionnate Developer</h1>
 
-<p align="center">🙋‍🔗 <strong>Click for connect with me:</strong></p>
+<p align="center">🙋‍🔗 <strong>Click to connect with me and/or learn more about me:</strong></p>
 <p align="center">
 <a href="https://linkedin.com/in/floriane-maffei"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://floriane-maffei.vercel.app/"><img src="https://img.shields.io/badge/Portefolio-F24E1E?style=for-the-badge&logo=web&logoColor=white"</a>
