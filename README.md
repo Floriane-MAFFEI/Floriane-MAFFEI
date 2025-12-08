@@ -16,6 +16,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/floriane-maffei"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://floriane-maffei.vercel.app/"><img src="https://img.shields.io/badge/Portefolio-F24E1E?style=for-the-badge&logo=web&logoColor=white"</a>
+<a href="https://writeupsbyfloriane.vercel.app/"><img src="https://img.shields.io/badge/WriteUps-3b82f6?style=for-the-badge&logo=web&logoColor=white"</a>
 </p>
 
 ## **About me**
